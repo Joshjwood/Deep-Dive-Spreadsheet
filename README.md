@@ -2,10 +2,10 @@
 
 #Step 1 - Spotify
 
-Create Spotify developer account
-Create Spotify app
-Collect Client ID and Client Secret
-Add to main.py
+1. Create Spotify developer account
+2. Create Spotify app
+3. Collect Client ID and Client Secret
+4. Add to main.py
 
 
 #Step 2 - Google API
