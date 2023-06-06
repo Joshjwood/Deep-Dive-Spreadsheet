@@ -23,3 +23,5 @@ Add to main.py
 11. Note: add json file to .gitignore without fail.
 12. From url (e.g. https://docs.google.com/spreadsheets/d/1E5gTTkuLTs4rhkZAB8vvGMx7MH008HjW7YOjIOvKYJ1/) extract part between /d/ and / (e.g. 1E5gTTkuLTs4rhkZAB8vvGMx7MH008HjW7YOjIOvKYJ1 in this case) which is your spreadsheet_id.
 13. sheet_name is the name of the tab in google spreadsheet. By default it is "Sheet1" (unless you have modified it.
+
+#Step 3 - Add full spreadsheet URL to YOUR_SPREADSHEET_URL
