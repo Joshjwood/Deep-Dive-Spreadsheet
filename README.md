@@ -1,5 +1,13 @@
 # Deep-Dive-Spreadsheet
 
+This project arose because I felt Spotify's search wasn't comprehensive enough, the interface doesn't give you all the information, and artist pages often don't show you songs they've submitted to compilation albums or other projects. I'm a huge music lover and sometimes if I like an artist I want to find and check out even their most obscure songs.
+
+It does two things, you enter an artist name and it searches for every song of theirs on Spotify, returns them and then sends them to a Google Sheets doc with all the often missing information displayed such as a popularity rating, release date, a link to the song, a preview.
+
+It also then creates a new playlist, filters the songs to remove artists with similar names that may have appeared in the search, then adds the songs to the new playlist.
+
+In this way, you can quickly create a Discography playlist for all your favourite artists.
+
 #Step 1 - Spotify
 
 1. Create Spotify developer account
